@@ -1,0 +1,396 @@
+:: StoryTitle
+ONeill Rory PED624 Assessment 3 Activity
+
+
+:: StoryData
+{
+  "ifid": "BB67C61A-F3F3-45E9-9FAF-D0F9696B3DB5",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Introduction",
+  "zoom": 1
+}
+
+
+:: 37 Degrees {"position":"1700,1500","size":"100,100"}
+Yes! Our body temperature is 37 degrees and it is designed to provide the optimal environment for our enzymes to function in. When enzymes are functioning optimally, they catalyze reactions faster. For this reason, the starch would be hydrolyzed most rapidly at this temperature, resulting in more orange wells.
+
+You finish your experiment, but notice that your 37 degree temperature control did not actually show the fastest reaction rate. Why might this be?
+
+[[Everyone's saliva is different. Your amylase must function best at a different temperature.]]
+
+[[You could have made an error in your experimental setup, for example a pipetting mistake.]]
+
+[[The solution was insufficiently mixed, so the concentration of amylase was actually less.]]
+
+[[You did the 37 degree assay last. By that time the amylase had been sitting out too long and became dysfunctional.]]
+
+
+
+
+
+:: Add 100uL iodine to 11 consecutive wells in 4 different rows on the 96-well plate {"position":"900,1400","size":"100,100"}
+Yes! We have to do this step first in order to be able to perform a time-based assay. Iodine is what allows us to measure the reaction rate at different time points through colour changes that correspond to starch concentrations.
+
+Why do we add the iodine to 4 different rows?
+
+[[In science, repetition is needed to give reliable data. We do the assay in fours to ensure consistency in our data]]
+
+[[We are testing multiple conditions, in this case four different ones, so we have one row per condition.]]
+
+
+:: Amylase {"position":"1000,200","size":"100,100"}
+Amylase is an enzyme produced in the salivary glands and pancreas that breaks down starch into simpler sugars like glucose. In humans, amylase plays a crucial role in the digestion of carbohydrates, helping to convert starch from foods into a form that can be absorbed and used for energy production.
+
+<a href="https://ibb.co/9hbYqmV"><img src="https://i.ibb.co/dtPKQsL/Amylase.png" alt="Amylase" border="0"></a><a target='_blank' href='https://imgbb.com/'></a>
+
+[[Iodine Test]]
+
+
+:: Amylose {"position":"1000,0","size":"100,100"}
+Starch is a plant-based carbohydrate consisting of amylose (linear glucose chains) and amylopectin (branched glucose chains). In humans, starch serves as a major dietary energy source, broken down by enzymes like amylase into glucose for energy production and bodily functions.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/48Q2FkS/Untitled.png" alt="Untitled" border="0"></a>
+
+[[Amylase]]
+
+
+:: Boiling {"position":"1700,1300","size":"100,100"}
+Think about the concept of denaturation. What effect might boiling have on amylase? Try again.
+
+
+:: Congratulations, you're done! {"position":"2100,1400","size":"100,100"}
+Congratulations for completing the pre-lab activity! I hope you’re looking forward to seeing everything brought to life in this week’s experiment!
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6D3LknW/images.png" alt="images" border="0"></a>
+
+
+:: Denaturation {"position":"1000,300","size":"100,100"}
+Denaturation refers to the alteration of an enzyme's structure, leading to loss of its biological activity. This can occur due to factors such as high temperature, extreme pH levels, or exposure to certain chemicals. When an enzyme is denatured, its active site is disrupted, preventing it from effectively catalyzing reactions.
+
+<a href="https://ibb.co/n8jZFwH"><img src="https://i.ibb.co/TqtpswV/denaturation.jpg" alt="denaturation" border="0"></a>
+
+Now that you've gone over the theory [[click here to see this weeks experiment]].
+
+
+:: Discard the tip and add a fresh one. Now we can add the 3mL 0.85% NaCl. {"position":"700,1600","size":"100,100"}
+Yes! Whenever we move from one solution to another we must use a fresh tip to avoid contamination.
+
+We now have our saliva mixture! What should we do next?
+
+[[Transfer 1mL of this mixture to 5mL of starch so that we can start our enzymatic assay.]]
+
+[[Add 100uL iodine to 11 consecutive wells in 4 different rows on the 96-well plate]]
+
+[[It doesn't make a difference. We have to do both eventually anyways. Not everything in science needs to be rigid.]]
+
+
+:: Do one temperature condition and start the 10-minute timer {"position":"1300,1400","size":"100,100"}
+Yes! We must sample at precisely every minute over a 10 minute span. If we ran multiple tubes at once, we would not be able to reliably do this.
+
+After we do each condition, one at a time, we can observe the results of our plates. Before reading our plates in the plate reader, we will examine them visually and note the colour changes that happened in each condition. 
+
+You look down and see a series of orange wells. What does this colour signal with regards to the presence of starch.
+
+[[There is a high concentration of starch present in the well.]]
+
+[[There is a medium concentration of starch present in the well.]]
+
+[[There is a low concentration of starch present in the well.]]
+
+
+:: Everyone's saliva is different. Your amylase must function best at a different temperature. {"position":"1900,1300","size":"100,100"}
+While everyone's saliva is different, you would have used the same salivary sample for all four conditions. Something else must explain it. Try again.
+
+
+:: Have four different tubes, one in each temperature condition, then start the 10-minute timer {"position":"1300,1600","size":"100,100"}
+While we are tight on time, this would not be a good idea. Running different assays simultaneously becomes too difficult to manage with any degree of accuracy.
+
+
+:: Here is the equipment we will be working with during the lab {"position":"300,300","size":"100,100"}
+During this experiment we will need to know how to operate the following equipment:
+
+1. [[Water Bath]]
+2. [[Micropipettors]]
+3. [[Plate Reader]]
+4. [[Hot Plate]]
+
+Click on the above equipment to see how they will be used.
+
+
+:: Hot Plate {"position":"600,400","size":"100,100"}
+Here is a hot plate. We use this to boil water in order to get 100 degree temperatures. We will set the temperature to 200 degrees to ensure the water boils. Be careful that the water does not evaporate as this will cause the glassware to crack and break. 
+
+<img src="https://s3.amazonaws.com/forums.content.luxology.com/images/poster/a1ec46afc015c868968522e8217463a8_p.jpg" alt="Water Boiling in a Beaker" width="50%" height="50%">
+
+Now that you've gone over the equipment [[click here to see the theory we will need to know to understand the experiment]].
+
+
+:: Ice {"position":"1700,1900","size":"100,100"}
+Think about what happens when you're cold. Though not directly analagous, the same principles apply to enzymatic reactions. Try again.
+
+
+:: In science, repetition is needed to give reliable data. We do the assay in fours to ensure consistency in our data {"position":"1100,1300","size":"100,100"}
+While repetition is desirable in science, we are time-restricted with our lab time. Rather than having individual groups perform replicates, we will combine class data in order to achieve this. 
+
+
+:: Introduction {"position":"400,100","size":"200,200"}
+(text-colour:black)+(bg:white)[Welcome to the Biochemistry (DCN) Biomolecules virtual prelab. In this lab we will be doing an enzyme assay, measuring the rate of starch hydrolysis by the enzyme amylase. 
+
+During and after this virtual prelab, you should be able to:
+
+1. Describe the process of dehydration synthesis and hydrolysis. 
+
+2. Conduct an enzyme assay and describe the influence of tempeature on enzyme activity.
+
+3. Understand the iodine complex and how this relates to the functions of starch. 
+
+4. Understand the concept of denaturation and how this impacts catalytic reactions.
+
+5. Operate a micropipettor.]
+
+
+
+[[Here is the equipment we will be working with during the lab]]
+
+If you're already familiar with the equipment [[click here to see the theory we will need to know to understand the experiment]]
+
+
+:: Iodine Test {"position":"1000,400","size":"100,100"}
+The iodine (orange in colour by itself) test is used to detect the presence of starch. When iodine comes into contact with starch, it forms a blue-black color complex. In the context of amylase, the absence of a blue-black colour after adding iodine indicates that starch has been broken down by amylase into simpler sugars, as amylase catalyzes the hydrolysis of starch into glucose and maltose, altering the iodine-starch complex colour.
+
+<a href="https://ibb.co/HBWZy3d"><img src="https://i.ibb.co/9cFP0St/Iodine-Test.png" alt="Iodine-Test" border="0"></a>
+
+[[Denaturation]]
+
+
+:: It doesn't make a difference. We have to do both eventually anyways. Not everything in science needs to be rigid. {"position":"900,1800","size":"100,100"}
+It doesn't always make a difference, but in this case it does! Think about why and try to pick the correct answer.
+
+
+:: It should read 0003 for 3ML {"position":"500,1300","size":"100,100"}
+Remember micropipettor volume windows are in microliters, not millilitres. This would be 3uL, not 3mL.
+
+
+:: It should read 3000 for 3ML {"position":"500,1500","size":"100,100"}
+Yes! This window corresponds to 3000uL, which is equivalent to 3mL.
+
+Now that we have our saliva we need to add 3mL of 0.85% NaCl to this same tube. How should we do this?
+
+[[Use the same micropipettor setup. It is already set to 3mL, so we can just transfer the 0.85% NaCl right away.]]
+
+[[Discard the tip and add a fresh one. Now we can add the 3mL 0.85% NaCl.]]
+
+
+
+
+:: Metabolic Reactions {"position":"1000,100","size":"100,100"}
+Dehydration synthesis is a chemical reaction in which two molecules are joined together by removing a molecule of water. It is commonly involved in the formation of larger molecules like carbohydrates, proteins, and lipids. On the other hand, hydrolysis is the reverse process, where a molecule is broken down into smaller units by the addition of water molecules.
+
+<a href="https://ibb.co/HLcjtmD"><img src="https://i.ibb.co/1YCkrHf/Hydrolysis.png" alt="Hydrolysis" border="0"></a>
+
+[[Amylose]]
+
+
+:: Micropipettors {"position":"700,400","size":"100,100"}
+Here are the Eppendorf Research Plus micropipettors we will be using. These are used to dispense very specific and precise volumes of solution.
+
+<img src="https://www.mandel.ca/media/catalog/product/e/p/eppendorf_6587.jpg" alt="Image from Mandel" width="50%" height="50%">
+
+In order to get the desired volume we must spin the top of the device until we our target volume in the display on the micropipettor. For example, this would be 550uL of volume.
+
+<img src="https://i.ytimg.com/vi/ANstQmxqLgM/hqdefault.jpg" alt="YouTube Video Thumbnail" width="70%" height="70%">
+
+[[Plate Reader]]
+
+
+:: Plate Reader {"position":"400,400","size":"100,100"}
+Here is the plate reader. After you load your 96-well plate, you can measure the absorbance quickly using this device. Simply load your plate in, click read and then save the data. We will be reading absorbances at a wavelength of 615nm. 
+
+<img src="https://www.labexpert.co.th/images/BioPlate%20Reader%20MR-1000S.png" alt="BioPlate Reader MR-1000S" width="50%" height="50%">
+
+[[Hot Plate]]
+
+
+:: Room Temperature {"position":"1700,1700","size":"100,100"}
+Think about the internal temperature of your body, specifically where saliva is made. This is the environment amylase most typically functions in. Try again.
+
+
+:: Spit 3ML directly into the test tube to minimize using unneccessary materials. {"position":"300,1500","size":"100,100"}
+While it is good to not use materials when not needed, in this case we do need the aluminum tray. Spitting into a narrow test tube opening is not only potentially messy, but gauging exactly 3ML of volume is nearly impossible.
+
+
+:: Spit into an aluminum tray to collect saliva, then transfer with a micropipettor to the test tube. {"position":"300,1400","size":"100,100"}
+Yes! We have to first collect the saliva so that we can transfer a precise volume later on. 
+
+Now that we have collected the sample, we need to transfer 3ML of saliva into a test tube.
+
+We will do this using a 5ML micropipettor. 
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/MspLCZY/p2000.png" alt="p2000" border="0"></a>
+
+We must twist the top of the micropipettor to get the desired volume. What should the above volume window look like to ensure we collect 3ML of saliva sample?
+
+
+[[It should read 3000 for 3ML]]
+
+[[It should read 0003 for 3ML]]
+
+
+
+:: Step 1 - Making Saliva Mixture {"position":"1100,600","size":"100,100"}
+To start we will add 3ML of saliva and 3ML 0.5% NaCl to a 18mm test tube using   micropipettors. 
+
+<a href="https://ibb.co/fXvyr08"><img src="https://i.ibb.co/PrQP1CT/Saliva.png" alt="Saliva" border="0"></a>
+
+[[Step 2 - Adding Iodine to Plate]]
+
+
+:: Step 2 - Adding Iodine to Plate {"position":"1100,700","size":"100,100"}
+This 10 minute assay will be done in a 96-well plate. Each assay will require 11 individual wells (0-10 minute, assayed every minute). To each of these 11 wells, add 100uL of iodine. Iodine is yellowy-orange in colour on its own.
+
+<a href="https://ibb.co/mb1gnrX"><img src="https://i.ibb.co/9czSxmV/iodine.png" alt="iodine" border="0"></a>
+
+[[Step 3 - Adding Starch]]
+
+
+:: Step 3 - Adding Starch {"position":"1100,800","size":"100,100"}
+Next, we will add 1ML of the saliva mixture to a tube containing 5ML of 1% starch. This is a time-based assay, so it is very important to note the time and start the 10 minute timer once this transfer is made!
+
+<a href="https://ibb.co/9hPPTj2"><img src="https://i.ibb.co/HCZZzQY/Saliva.png" alt="Saliva" border="0"></a>
+
+[[Step 4 - Time-Based Assay]]
+
+
+:: Step 4 - Time-Based Assay {"position":"1100,900","size":"100,100"}
+Every minute transfer 100uL of the starch-saliva mixture to a well in the 96-well plate. Remember: when iodine reacts with starch it forms a blue complex. This means the more starch in the sample, the more blue the well will appear. As amylase hydrolyzes starch, there will be less substrate available so the sample will slowly become less blue and more orange (the original colour of pure iodine).
+
+<a href="https://ibb.co/pPpvnLQ"><img src="https://i.ibb.co/QcGFXKk/Time-Based-Assat.png" alt="Time-Based-Assat" border="0"></a>
+
+[[Step 5 - Effect of Temperature]]
+
+
+:: Step 5 - Effect of Temperature {"position":"1100,1000","size":"100,100"}
+To understand how temperature impacts this reaction, we will do this assay under different temperature conditions: in boiling water, on ice, at room temperature and at 37 degrees (temperature of the human body).
+
+<a href="https://ibb.co/XjrRTfQ"><img src="https://i.ibb.co/DzH2nPJ/Temperature-Controls.png" alt="Temperature-Controls" border="0"></a>
+
+[[Step 6 - Measuring Absorbance]]
+
+
+:: Step 6 - Measuring Absorbance {"position":"1100,1100","size":"100,100"}
+When the 10 minute assays are all complete, bring your plate to the front of the room. We will read them using a plate reader that will measure the absorbance of each well at 615nm. This can then be used to generate a curve of starch concentration. 
+
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/Snvz7SN/Plate-Reader.png" alt="Plate-Reader" border="0" style="width: 50%; height: 50%;">
+  </a> <a target='_blank' href='https://imgbb.com/'></a>
+Now that you've gone through the protocol click [[here to verify your understanding]].
+
+
+:: The solution was insufficiently mixed, so the concentration of amylase was actually less. {"position":"1900,1700","size":"100,100"}
+Think about how the salivary sample was made. How dilute was it to begin with? Try again.
+
+
+:: There is a high concentration of starch present in the well. {"position":"1500,1200","size":"100,100"}
+Not quite. Think about the starch-iodine complex and the colour it creates. Try again.
+
+
+:: There is a low concentration of starch present in the well. {"position":"1500,1600","size":"100,100"}
+Yes! Iodine on its own is orange. As the well becomes more orange, it indicates that there is less starch present in the sample.
+
+Which temperature condition would you expect to have the most orange wells?
+
+[[Boiling]]
+
+[[37 Degrees]]
+
+[[Room Temperature]]
+
+[[Ice]]
+
+
+:: There is a medium concentration of starch present in the well. {"position":"1500,1400","size":"100,100"}
+A medium concentration of starch would be indicated by a colour that is in between the colour of pure iodine and the colour of the starch-iodine complex. What colour would this be? Take a moment to think and try again.
+
+
+:: Transfer 1mL of this mixture to 5mL of starch so that we can start our enzymatic assay. {"position":"900,1600","size":"100,100"}
+This will not work! We cannot start our assay before adding the iodine. Think about why this may be the case. 
+
+
+:: Use the same micropipettor setup. It is already set to 3mL, so we can just transfer the 0.85% NaCl right away. {"position":"700,1400","size":"100,100"}
+Again, while it is good to not waste consumables, it is necessary to add a fresh tip before transferring a new solution. The tip used for saliva is now contaminated. If we used this same tip we would contaminate our NaCl solution with saliva. 
+
+
+:: Water Bath {"position":"500,400","size":"100,100"}
+This is the VWR General Purpose Water Bath we will be using. Water is heated to and maintained at a specific temperature. In this experiment we will be creating a 37 degree environment to mimic the temperature of the human body.
+
+<img src="https://export.vwr.com/stibo/low_res/std.lang.all/50/88/26085088.jpg" alt="Image from VWR" width="50%" height="50%">
+
+[[Micropipettors]]
+
+
+:: We are testing multiple conditions, in this case four different ones, so we have one row per condition. {"position":"1100,1500","size":"100,100"}
+Yes! We are looking at the effect of four different temperatures on the reaction rate of amylase. 
+
+We can now add the 1mL of saliva mixture to 5mL of starch and start the timer. How should we do this?
+
+[[Have four different tubes, one in each temperature condition, then start the 10-minute timer]]
+
+[[Do one temperature condition and start the 10-minute timer]]
+
+
+:: You could have made an error in your experimental setup, for example a pipetting mistake. {"position":"1900,1500","size":"100,100"}
+Yes! There are many possibilities where things can go wrong in an experiment. Don't get discouraged though, this happens all the time. It takes practice to reliably execute an experimental protocol. Experimental error, such as inaccuracies in pipetting, temperature control, measurement of enzyme or substrate concentrations, or timing of the reaction steps, could have influenced the observed results. 
+
+At this point we will take the absorbances of our sample wells using the plate reader.
+
+[[Congratulations, you're done!]]
+
+If you need a refresher you can go back to the [[Introduction]] to brush up.
+
+
+:: You did the 37 degree assay last. By that time the amylase had been sitting out too long and became dysfunctional. {"position":"1900,1900","size":"100,100"}
+Think about the stability of amylase at room temperature. Would it break down that quickly? Try again.
+
+
+:: click here to see the theory we will need to know to understand the experiment {"position":"700,100","size":"100,100"}
+There are important concepts we need to know before we can properly understand the experiment:
+
+1. [[Metabolic Reactions]]
+
+2. [[Amylose]]
+
+3. [[Amylase]]
+
+4. [[Iodine Test]]
+
+5. [[Denaturation]]
+
+Click on the above concepts if you need more clarity.
+
+Otherwise, [[click here to see this weeks experiment]]
+
+
+:: click here to see this weeks experiment {"position":"900,800","size":"100,100"}
+The experiment will involve comparing the rate of the digestion of starch by the amylase present in our saliva at different temperatures (freezing, room temperature, 37 degrees and boiling). We will be analyzing the reaction rate by measuring the absorbance of the reactions using a plate reader. 
+
+1. [[Step 1 - Making Saliva Mixture]]
+2. [[Step 2 - Adding Iodine to Plate]]
+3. [[Step 3 - Adding Starch]]
+4. [[Step 4 - Time-Based Assay]]
+5. [[Step 5 - Effect of Temperature]]
+5. [[Step 6 - Measuring Absorbance]]
+
+Once you understand the protocol, click [[here to verify your understanding]].
+
+
+:: here to verify your understanding {"position":"100,1400","size":"100,100"}
+You walk into the lab and go to your bench. 
+
+On the bench we find test tubes, micropipettors, starch solution, NaCl solution, iodine, a 96-well plate, an ice bucket, a water bath, a hot plate and aluminum trays.
+
+How should we collect our saliva sample?
+
+[[Spit 3ML directly into the test tube to minimize using unneccessary materials.]]
+
+[[Spit into an aluminum tray to collect saliva, then transfer with a micropipettor to the test tube.]]
